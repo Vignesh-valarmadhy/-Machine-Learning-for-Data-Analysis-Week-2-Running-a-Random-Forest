@@ -1,1 +1,2 @@
-# -Machine-Learning-for-Data-Analysis-Week-2-Running-a-Random-Forest
+# Machine-Learning-for-Data-Analysis
+Machine Learning for Data Analysis
